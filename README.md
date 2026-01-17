@@ -5,7 +5,7 @@
 
 <img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="300">
 
-- 🔭 I’m currently working in [**Newgen**](https://newgensoft.com/)
+- 🔭 I’m currently working in [**S&P Global**](https://www.spglobal.com/)
 
 - 🌱 I’m currently learning advanced **JavaScript**
 
@@ -18,8 +18,6 @@
 - 🤝 I’m looking for help with **Backend Development.**
 
 - 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **ankushsahil45@gmail.com**
 
 <hr>
 
